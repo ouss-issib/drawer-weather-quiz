@@ -28,8 +28,8 @@ lib/
 
 1. **Cloner le projet** :
    ```bash
-   git clone https://github.com/ouss-issib/flutter-chatbot-application.git
-   cd flutter-chatbot-application
+   git clone https://github.com/ouss-issib/drawer-weather-quiz.git
+   cd drawer-weather-quiz
 
 2. **Installer les dependences Flutter** :
    ```bash
